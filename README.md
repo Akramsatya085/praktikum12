@@ -1,4 +1,5 @@
 Tugas 1
+~~~sh
 txt = 'Hello World'
 print(f"Teks = {txt}")
 # Menghitung jumlah karakter
@@ -21,7 +22,7 @@ print(f"Teks menjadi huruf kecil = {e}")
 # Ganti karakter H dengan karakter J
 f = txt.replace("H","J")
 print(f"Menganti karakter H dengan J = {f}")
-
+~~~
 ![Screenshot (53)](https://user-images.githubusercontent.com/115615953/209736007-8245e5df-f50f-4184-a2ec-59954c73a043.png)
 
 Tugas 2
